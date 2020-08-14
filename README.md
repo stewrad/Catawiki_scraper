@@ -18,6 +18,7 @@ To run this project, clone this github repository and install requirements.txt::
 
 ```
 $ cd ../your/dir
+$ git clone https://github.com/this/repo local_repo_name
 $ pip install -r requirements.txt or pip3 install -r requirments.txt 
 ```
 
